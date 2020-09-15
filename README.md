@@ -1,3 +1,7 @@
+Project currently deployed on Firebase(https://covid-19-tracker-b73da.web.app/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
